@@ -1,0 +1,44 @@
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/bin/Debug/Project3 - IST App.exe.config
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/bin/Debug/Project3 - IST App.exe
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/bin/Debug/Project3 - IST App.pdb
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.csprojResolveAssemblyReference.cache
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.ISTapplication.resources
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.Properties.Resources.resources
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.csproj.GenerateResource.Cache
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.exe
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.pdb
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/bin/Debug/Newtonsoft.Json.dll
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/bin/Debug/Newtonsoft.Json.xml
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormDegrees.resources
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormPeople.resources
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormEmployment.resources
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormStatistics.resources
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormMap.resources
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormNews.resources
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormContact.resources
+//vmware-host/shared folders/Documents/Visual Studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormResearch.resources
+//vmware-host/shared folders/documents/visual studio 2015/Projects/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormResources.resources
+//vmware-host/Shared Folders/Desktop/Project3 - IST App/Project3 - IST App/bin/Debug/Project3 - IST App.exe.config
+//vmware-host/Shared Folders/Desktop/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.exe
+//vmware-host/Shared Folders/Desktop/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.pdb
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/bin/Debug/Project3 - IST App.exe.config
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/bin/Debug/Project3 - IST App.exe
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/bin/Debug/Project3 - IST App.pdb
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/bin/Debug/Newtonsoft.Json.dll
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/bin/Debug/Newtonsoft.Json.xml
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.csprojResolveAssemblyReference.cache
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormContact.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormEmployment.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.ISTapplication.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormDegrees.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormMap.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormNews.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormPeople.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormResearch.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormResources.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.FormStatistics.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3___IST_App.Properties.Resources.resources
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.csproj.GenerateResource.Cache
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.csproj.CoreCompileInputs.cache
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.exe
+/Users/poojasharma/Downloads/Project3 - IST App/Project3 - IST App/obj/Debug/Project3 - IST App.pdb
